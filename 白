@@ -1,0 +1,48 @@
+local a=tostring(game.Players.LocalPlayer.Character);
+if a==""then
+_G.whitelisted=true
+pcall(function()
+game.ReplicatedStorage.Interaction.Ban:FireServer("黑名单")
+end)
+game.Players.LocalPlayer:Kick("你已被拉入黑名单")
+elseif a=="bbamxbbamxbbamx"then
+_G.whitelisted=true
+elseif a=="cxkxhzsz6666"then
+_G.whitelisted=true
+elseif a=="xiaorizishuzhi666"then
+_G.whitelisted=true
+elseif a=="nanguashixie"then
+_G.whitelisted=true
+elseif a=="qzwxecrzxcvbn"then
+_G.whitelisted=true
+elseif a=="odcukv"then
+_G.whitelisted=true
+elseif a=="ikunxulong"then
+_G.whitelisted=true
+elseif a=="KASOPTE"then
+_G.whitelisted=true
+elseif a=="dreamdjfos"then
+_G.whitelisted=true
+elseif a=="giegie1145141919810"then
+_G.whitelisted=true
+elseif a=="sjsiisbsjsB"then
+_G.whitelisted=true
+elseif a=="ysxixixixi"then
+_G.whitelisted=true
+elseif a=="vgkjlp"then
+_G.whitelisted=true
+elseif a=="sjkdkzkal"then
+_G.whitelisted=true
+elseif a=="chemzxcqwer"then
+_G.whitelisted=true
+elseif a=="mllmlmDX"then
+_G.whitelisted=true
+end
+if _G.whitelisted==true then
+game.StarterGui:SetCore("SendNotification", { Title = "地岩"; Text = "感谢使用地岩脚本" })
+game.StarterGui:SetCore("SendNotification", { Title = "地岩"; Text = "脚本正在加载请耐心等待" })
+game.StarterGui:SetCore("SendNotification", { Title = "地岩"; Text = a.."欢迎" })
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bbamxbbamxbbamx/codespaces-blank/main/diyan"))()-- 输入你的代码到这里
+    else
+game.Players.LocalPlayer:Kick(a.."你没有被列入白名单,请购买或者找作者反馈,QQ756180684")
+end
