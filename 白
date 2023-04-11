@@ -39,6 +39,8 @@ elseif a=="mllmlmDX"then
 _G.whitelisted=true
 elseif a=="hdjiover"then
 _G.whitelisted=true
+elseif a=="jhgfgf123r"then
+_G.whitelisted=true
 end
 if _G.whitelisted==true then
 game.StarterGui:SetCore("SendNotification", { Title = "地岩"; Text = "感谢使用地岩脚本" })
