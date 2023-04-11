@@ -35,7 +35,15 @@ local Section = Tab:AddSection({
 Tab:AddButton({
 	Name = "开启卡宠",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/aBwY1DLw"))()		
+	spawn(function()
+    while wait() do
+        game:GetService("ReplicatedStorage").rEvents.rebirthEvent:FireServer("rebirthRequest")
+    end
+end)
+
+while wait(0.1) do
+local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) local A_1 = "collectOrb" local A_2 = "Yellow Orb" local A_3 = "City" local Event = game:GetService("ReplicatedStorage").rEvents.orbEvent Event:FireServer(A_1, A_2, A_3) 
+end		
   	end
 })
 Tab:AddButton({
@@ -47,7 +55,25 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "反挂机【防检测】",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/GFL9wCAp"))()
+	wait(0.5)local ba=Instance.new("ScreenGui")
+local ca=Instance.new("TextLabel")local da=Instance.new("Frame")
+local _b=Instance.new("TextLabel")local ab=Instance.new("TextLabel")ba.Parent=game.CoreGui
+ba.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;ca.Parent=ba;ca.Active=true
+ca.BackgroundColor3=Color3.new(0.176471,0.176471,0.176471)ca.Draggable=true
+ca.Position=UDim2.new(0.698610067,0,0.098096624,0)ca.Size=UDim2.new(0,304,0,52)
+ca.Font=Enum.Font.SourceSansSemibold;ca.Text="反对挂机踢脚本"ca.TextColor3=Color3.new(0,1,1)
+ca.TextSize=22;da.Parent=ca
+da.BackgroundColor3=Color3.new(0.196078,0.196078,0.196078)da.Position=UDim2.new(0,0,1.0192306,0)
+da.Size=UDim2.new(0,304,0,107)_b.Parent=da
+_b.BackgroundColor3=Color3.new(0.176471,0.176471,0.176471)_b.Position=UDim2.new(0,0,0.800455689,0)
+_b.Size=UDim2.new(0,304,0,21)_b.Font=Enum.Font.Arial;_b.Text="挂机"
+_b.TextColor3=Color3.new(1,1,1)_b.TextSize=20;ab.Parent=da
+ab.BackgroundColor3=Color3.new(0.176471,0.176471,0.176471)ab.Position=UDim2.new(0,0,0.158377379,0)
+ab.Size=UDim2.new(0,304,0,44)ab.Font=Enum.Font.ArialBold;ab.Text="状态：脚本开始"
+ab.TextColor3=Color3.new(1,1,1)ab.TextSize=20;local bb=game:service'VirtualUser'
+game:service'Players'.LocalPlayer.Idled:connect(function()
+bb:CaptureController()bb:ClickButton2(Vector2.new())
+ab.Text="你闲置了,roblox试图踢你,但我们反映了它"wait(2)ab.Text="脚本重新启用"end)
   	end    
 })
 
@@ -1770,7 +1796,1065 @@ local Section = Tab:AddSection({
 Tab:AddButton({
 	Name = "地岩doors",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/dMi8sB3b"))()
+	local library = loadstring(game:HttpGet('https://pastebin.com/raw/vPWzQEC8'))()
+local plr = game.Players.LocalPlayer
+local char = plr.Character or plr.CharacterAdded:Wait()
+local hum = char:FindFirstChildOfClass("Humanoid") or char:WaitForChild("Humanoid")
+
+if not fireproximityprompt then
+    local msg = Instance.new("Message",workspace)
+    msg.Text = "you have fireproximityprompt function bro get better executor"
+    task.wait(6)
+    msg:Destroy()
+    error("no prox") 
+end
+
+function esp(what,color,core,name)
+    local parts
+    
+    if typeof(what) == "Instance" then
+        if what:IsA("Model") then
+            parts = what:GetChildren()
+        elseif what:IsA("BasePart") then
+            parts = {what,table.unpack(what:GetChildren())}
+        end
+    elseif typeof(what) == "table" then
+        parts = what
+    end
+    
+    local bill
+    local boxes = {}
+    
+    for i,v in pairs(parts) do
+        if v:IsA("BasePart") then
+            local box = Instance.new("BoxHandleAdornment")
+            box.Size = v.Size
+            box.AlwaysOnTop = true
+            box.ZIndex = 1
+            box.AdornCullingMode = Enum.AdornCullingMode.Never
+            box.Color3 = color
+            box.Transparency = 0.7
+            box.Adornee = v
+            box.Parent = game.CoreGui
+            
+            table.insert(boxes,box)
+            
+            task.spawn(function()
+                while box do
+                    if box.Adornee == nil or not box.Adornee:IsDescendantOf(workspace) then
+                        box.Adornee = nil
+                        box.Visible = false
+                        box:Destroy()
+                    end  
+                    task.wait()
+                end
+            end)
+        end
+    end
+    
+    if core and name then
+        bill = Instance.new("BillboardGui",game.CoreGui)
+        bill.AlwaysOnTop = true
+        bill.Size = UDim2.new(0,400,0,100)
+        bill.Adornee = core
+        bill.MaxDistance = 2000
+        
+        local mid = Instance.new("Frame",bill)
+        mid.AnchorPoint = Vector2.new(0.5,0.5)
+        mid.BackgroundColor3 = color
+        mid.Size = UDim2.new(0,8,0,8)
+        mid.Position = UDim2.new(0.5,0,0.5,0)
+        Instance.new("UICorner",mid).CornerRadius = UDim.new(1,0)
+        Instance.new("UIStroke",mid)
+        
+        local txt = Instance.new("TextLabel",bill)
+        txt.AnchorPoint = Vector2.new(0.5,0.5)
+        txt.BackgroundTransparency = 1
+        txt.BackgroundColor3 = color
+        txt.TextColor3 = color
+        txt.Size = UDim2.new(1,0,0,20)
+        txt.Position = UDim2.new(0.5,0,0.7,0)
+        txt.Text = name
+        Instance.new("UIStroke",txt)
+        
+        task.spawn(function()
+            while bill do
+                if bill.Adornee == nil or not bill.Adornee:IsDescendantOf(workspace) then
+                    bill.Enabled = false
+                    bill.Adornee = nil
+                    bill:Destroy() 
+                end  
+                task.wait()
+            end
+        end)
+    end
+    
+    local ret = {}
+    
+    ret.delete = function()
+        for i,v in pairs(boxes) do
+            v.Adornee = nil
+            v.Visible = false
+            v:Destroy()
+        end
+        
+        if bill then
+            bill.Enabled = false
+            bill.Adornee = nil
+            bill:Destroy() 
+        end
+    end
+    
+    return ret 
+end
+
+local entityinfo = game.ReplicatedStorage:WaitForChild("EntityInfo")
+function message(text)
+    local msg = Instance.new("Message",workspace)
+    msg.Text = tostring(text)
+    task.wait(5)
+    msg:Destroy()
+end
+
+local flags = {
+    speed = 0,
+    espdoors = false,
+    espkeys = false,
+    espitems = false,
+    espbooks = false,
+    esprush = false,
+    espchest = false,
+    esplocker = false,
+    esphumans = false,
+    espgold = false,
+    goldespvalue = 0,
+    hintrush = false,
+    light = false,
+    instapp = false,
+    noseek = false,
+    nogates = false,
+    nopuzzle = false,
+    noa90 = false,
+    noskeledoors = false,
+    noscreech = false,
+    getcode = false,
+    roomsnolock = false,
+    draweraura = false,
+    autorooms = false,
+}
+
+local DELFLAGS = {table.unpack(flags)}
+local esptable = {doors={},keys={},items={},books={},entity={},chests={},lockers={},people={},gold={}}
+
+local window_player = library.window("功能")
+local window_esp = library.window("透视")
+local window_misc = library.window("其他")
+
+window_player.toggle("地图高光",false,function(val)
+    flags.light = val
+   
+    if val then
+        local l = Instance.new("PointLight")
+        l.Range = 10000
+        l.Brightness = 2
+        l.Parent = char.PrimaryPart
+       
+        repeat task.wait() until not flags.light
+        l:Destroy() 
+    end
+end)
+
+window_player.toggle("快速开门",false,function(val)
+    flags.instapp = val
+    
+    local holdconnect
+    holdconnect = game:GetService("ProximityPromptService").PromptButtonHoldBegan:Connect(function(p)
+		fireproximityprompt(p)
+	end)
+    
+    repeat task.wait() until not flags.instapp
+    holdconnect:Disconnect()
+end)
+
+local walkspeedslider = window_player.slider("调整速度",16,25,1,16,function(val)
+    hum.WalkSpeed = val
+    flags.speed = val
+end)
+
+task.spawn(function()
+    while true do
+        if hum.WalkSpeed < flags.speed then
+            hum.WalkSpeed = flags.speed
+        end
+        
+        task.wait()
+    end
+end)
+
+window_esp.toggle("透视门",false,function(val)
+    flags.espdoors = val
+    
+    if val then
+        local function setup(room)
+            local door = room:WaitForChild("Door"):WaitForChild("Door")
+            
+            task.wait(0.1)
+            local h = esp(door,Color3.fromRGB(255,240,0),door,"门")
+            table.insert(esptable.doors,h)
+            
+            door:WaitForChild("open").Played:Connect(function()
+                h.delete()
+            end)
+            
+            door.AncestryChanged:Connect(function()
+                h.delete()
+            end)
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            if room:FindFirstChild("Assets") then
+                setup(room) 
+            end
+        end
+        
+        repeat task.wait() until not flags.espdoors
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.doors) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视钥匙/闸",false,function(val)
+    flags.espkeys = val
+    
+    if val then
+        local function check(v)
+            if v:IsA("Model") and (v.Name == "LeverForGate" or v.Name == "KeyObtain") then
+                task.wait(0.1)
+                if v.Name == "KeyObtain" then
+                    local hitbox = v:WaitForChild("Hitbox")
+                    local parts = hitbox:GetChildren()
+                    table.remove(parts,table.find(parts,hitbox:WaitForChild("PromptHitbox")))
+                    
+                    local h = esp(parts,Color3.fromRGB(90,255,40),hitbox,"钥匙")
+                    table.insert(esptable.keys,h)
+                    
+                elseif v.Name == "LeverForGate" then
+                    local h = esp(v,Color3.fromRGB(90,255,40),v.PrimaryPart,"闸")
+                    table.insert(esptable.keys,h)
+                    
+                    v.PrimaryPart:WaitForChild("SoundToPlay").Played:Connect(function()
+                        h.delete()
+                    end) 
+                end
+            end
+        end
+        
+        local function setup(room)
+            local assets = room:WaitForChild("Assets")
+            
+            assets.DescendantAdded:Connect(function(v)
+                check(v) 
+            end)
+                
+            for i,v in pairs(assets:GetDescendants()) do
+                check(v)
+            end 
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            if room:FindFirstChild("Assets") then
+                setup(room) 
+            end
+        end
+        
+        repeat task.wait() until not flags.espkeys
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.keys) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视物品",false,function(val)
+    flags.espitems = val
+    
+    if val then
+        local function check(v)
+            if v:IsA("Model") and (v:GetAttribute("Pickup") or v:GetAttribute("PropType")) then
+                task.wait(0.1)
+                
+                local part = (v:FindFirstChild("Handle") or v:FindFirstChild("Prop"))
+                local h = esp(part,Color3.fromRGB(160,190,255),part,v.Name)
+                table.insert(esptable.items,h)
+            end
+        end
+        
+        local function setup(room)
+            local assets = room:WaitForChild("Assets")
+            
+            if assets then  
+                local subaddcon
+                subaddcon = assets.DescendantAdded:Connect(function(v)
+                    check(v) 
+                end)
+                
+                for i,v in pairs(assets:GetDescendants()) do
+                    check(v)
+                end
+                
+                task.spawn(function()
+                    repeat task.wait() until not flags.espitems
+                    subaddcon:Disconnect()  
+                end) 
+            end 
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            if room:FindFirstChild("Assets") then
+                setup(room) 
+            end
+        end
+        
+        repeat task.wait() until not flags.espitems
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.items) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视书/按钮",false,function(val)
+    flags.espbooks = val
+    
+    if val then
+        local function check(v)
+            if v:IsA("Model") and (v.Name == "LiveHintBook" or v.Name == "LiveBreakerPolePickup") then
+                task.wait(0.1)
+                
+                local h = esp(v,Color3.fromRGB(160,190,255),v.PrimaryPart,"书")
+                table.insert(esptable.books,h)
+                
+                v.AncestryChanged:Connect(function()
+                    if not v:IsDescendantOf(room) then
+                        h.delete() 
+                    end
+                end)
+            end
+        end
+        
+        local function setup(room)
+            if room.Name == "50" or room.Name == "100" then
+                room.DescendantAdded:Connect(function(v)
+                    check(v) 
+                end)
+                
+                for i,v in pairs(room:GetDescendants()) do
+                    check(v)
+                end
+            end
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            setup(room) 
+        end
+        
+        repeat task.wait() until not flags.espbooks
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.books) do
+            v.delete()
+        end 
+    end
+end)
+
+local entitynames = {"RushMoving","AmbushMoving","Snare","A60","A120"}
+
+window_player.label("地岩出品,必属精品",20)
+window_esp.toggle("透视实体",false,function(val)
+    flags.esprush = val
+    
+    if val then
+        local addconnect
+        addconnect = workspace.ChildAdded:Connect(function(v)
+            if table.find(entitynames,v.Name) then
+                task.wait(0.1)
+                
+                local h = esp(v,Color3.fromRGB(255,25,25),v.PrimaryPart,v.Name:gsub("Moving",""))
+                table.insert(esptable.entity,h)
+            end
+        end)
+        
+        local function setup(room)
+            if room.Name == "50" or room.Name == "100" then
+                local figuresetup = room:WaitForChild("FigureSetup")
+            
+                if figuresetup then
+                    local fig = figuresetup:WaitForChild("FigureRagdoll")
+                    task.wait(0.1)
+                    
+                    local h = esp(fig,Color3.fromRGB(255,25,25),fig.PrimaryPart,"Figure")
+                    table.insert(esptable.entity,h)
+                end 
+            else
+                local assets = room:WaitForChild("Assets")
+                
+                local function check(v)
+                    if v:IsA("Model") and table.find(entitynames,v.Name) then
+                        task.wait(0.1)
+                        
+                        local h = esp(v:WaitForChild("Base"),Color3.fromRGB(255,25,25),v.Base,"Snare")
+                        table.insert(esptable.entity,h)
+                    end
+                end
+                
+                assets.DescendantAdded:Connect(function(v)
+                    check(v) 
+                end)
+                
+                for i,v in pairs(assets:GetDescendants()) do
+                    check(v)
+                end
+            end 
+        end
+        
+        local roomconnect
+        roomconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,v in pairs(workspace.CurrentRooms:GetChildren()) do
+            setup(room) 
+        end
+        
+        repeat task.wait() until not flags.esprush
+        addconnect:Disconnect()
+        roomconnect:Disconnect()
+        
+        for i,v in pairs(esptable.entity) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视柜子",false,function(val)
+    flags.esplocker = val
+    
+    if val then
+        local function check(v)
+            if v:IsA("Model") then
+                task.wait(0.1)
+                if v.Name == "Wardrobe" then
+                    local h = esp(v.PrimaryPart,Color3.fromRGB(145,100,25),v.PrimaryPart,"柜子")
+                    table.insert(esptable.lockers,h) 
+                elseif (v.Name == "Rooms_Locker" or v.Name == "Rooms_Locker_Fridge") then
+                    local h = esp(v.PrimaryPart,Color3.fromRGB(145,100,25),v.PrimaryPart,"柜子")
+                    table.insert(esptable.lockers,h) 
+                end
+            end
+        end
+        
+        local function setup(room)
+            local assets = room:WaitForChild("Assets")
+            
+            if assets then
+                local subaddcon
+                subaddcon = assets.DescendantAdded:Connect(function(v)
+                    check(v) 
+                end)
+                
+                for i,v in pairs(assets:GetDescendants()) do
+                    check(v)
+                end
+                
+                task.spawn(function()
+                    repeat task.wait() until not flags.esplocker
+                    subaddcon:Disconnect()  
+                end) 
+            end 
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,v in pairs(workspace.CurrentRooms:GetChildren()) do
+            setup(room) 
+        end
+        
+        repeat task.wait() until not flags.esplocker
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.lockers) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视宝箱",false,function(val)
+    flags.espchest = val
+    
+    if val then
+        local function check(v)
+            if v:IsA("Model") then
+                task.wait(0.1)
+                if v.Name == "ChestBox" then
+                    warn(v.Name)
+                    local h = esp(v,Color3.fromRGB(205,120,255),v.PrimaryPart,"宝箱")
+                    table.insert(esptable.chests,h) 
+                elseif v.Name == "ChestBoxLocked" then
+                    local h = esp(v,Color3.fromRGB(255,120,205),v.PrimaryPart,"钥匙宝箱")
+                    table.insert(esptable.chests,h) 
+                end
+            end
+        end
+        
+        local function setup(room)
+            local subaddcon
+            subaddcon = room.DescendantAdded:Connect(function(v)
+                check(v) 
+            end)
+            
+            for i,v in pairs(room:GetDescendants()) do
+                check(v)
+            end
+            
+            task.spawn(function()
+                repeat task.wait() until not flags.espchest
+                subaddcon:Disconnect()  
+            end)  
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            if room:FindFirstChild("Assets") then
+                setup(room) 
+            end
+        end
+        
+        repeat task.wait() until not flags.espchest
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.chests) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视玩家",false,function(val)
+    flags.esphumans = val
+    
+    if val then
+        local function personesp(v)
+            v.CharacterAdded:Connect(function(vc)
+                local vh = vc:WaitForChild("Humanoid")
+                local torso = vc:WaitForChild("UpperTorso")
+                task.wait(0.1)
+                
+                local h = esp(vc,Color3.fromRGB(255,255,255),torso,v.DisplayName)
+                table.insert(esptable.people,h) 
+            end)
+            
+            if v.Character then
+                local vc = v.Character
+                local vh = vc:WaitForChild("Humanoid")
+                local torso = vc:WaitForChild("UpperTorso")
+                task.wait(0.1)
+                
+                local h = esp(vc,Color3.fromRGB(255,255,255),torso,v.DisplayName)
+                table.insert(esptable.people,h) 
+            end
+        end
+        
+        local addconnect
+        addconnect = game.Players.PlayerAdded:Connect(function(v)
+            if v ~= plr then
+                personesp(v)
+            end
+        end)
+        
+        for i,v in pairs(game.Players:GetPlayers()) do
+            if v ~= plr then
+                personesp(v) 
+            end
+        end
+        
+        repeat task.wait() until not flags.esphumans
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.people) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.toggle("透视金矿",false,function(val)
+    flags.espgold = val
+    
+    if val then
+        local function check(v)
+            if v:IsA("Model") then
+                task.wait(0.1)
+                local goldvalue = v:GetAttribute("GoldValue")
+                
+                if goldvalue and goldvalue >= flags.goldespvalue then
+                    local hitbox = v:WaitForChild("Hitbox")
+                    local h = esp(hitbox:GetChildren(),Color3.fromRGB(255,255,0),hitbox,"GoldPile [".. tostring(goldvalue).."]")
+                    table.insert(esptable.gold,h)
+                end
+            end
+        end
+        
+        local function setup(room)
+            local assets = room:WaitForChild("Assets")
+            
+            local subaddcon
+            subaddcon = assets.DescendantAdded:Connect(function(v)
+                check(v) 
+            end)
+            
+            for i,v in pairs(assets:GetDescendants()) do
+                check(v)
+            end
+            
+            task.spawn(function()
+                repeat task.wait() until not flags.espchest
+                subaddcon:Disconnect()  
+            end)  
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            if room:FindFirstChild("Assets") then
+                setup(room) 
+            end
+        end
+        
+        repeat task.wait() until not flags.espgold
+        addconnect:Disconnect()
+        
+        for i,v in pairs(esptable.gold) do
+            v.delete()
+        end 
+    end
+end)
+
+window_esp.slider("最低黄金价值",5,150,5,25,function(val)
+    flags.goldespvalue = val
+end)
+
+window_misc.toggle("通知实体",false,function(val)
+    flags.hintrush = val
+    
+    if val then
+        local addconnect
+        addconnect = workspace.ChildAdded:Connect(function(v)
+            if table.find(entitynames,v.Name) then
+                repeat task.wait() until plr:DistanceFromCharacter(v:GetPivot().Position) < 1000 or not v:IsDescendantOf(workspace)
+                
+                if v:IsDescendantOf(workspace) then
+                    message(v.Name:gsub("Moving",""):lower().." 快躲柜子")
+                end
+            end
+        end) 
+        
+        repeat task.wait() until not flags.hintrush
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.toggle("禁止seek追踪",false,function(val)
+    flags.noseek = val
+    
+    if val then
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            local trigger = room:WaitForChild("TriggerEventCollision",2)
+            
+            if trigger then
+                trigger:Destroy() 
+            end
+        end)
+        
+        repeat task.wait() until not flags.noseek
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.toggle("删除闸门",false,function(val)
+    flags.nogates = val
+    
+    if val then
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            local gate = room:WaitForChild("Gate",2)
+            
+            if gate then
+                local door = gate:WaitForChild("ThingToOpen",2)
+                
+                if door then
+                    door:Destroy() 
+                end
+            end
+        end)
+        
+        repeat task.wait() until not flags.nogates
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.toggle("删除拼图门",false,function(val)
+    flags.nopuzzle = val
+    
+    if val then
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            local assets = room:WaitForChild("Assets")
+            local paintings = assets:WaitForChild("Paintings",2)
+            
+            if paintings then
+                local door = paintings:WaitForChild("MovingDoor",2)
+            
+                if door then
+                    door:Destroy() 
+                end 
+            end
+        end)
+        
+        repeat task.wait() until not flags.nopuzzle
+        addconnect:Disconnect()
+    end
+end)
+
+local screechremote = entityinfo:FindFirstChild("Screech")
+
+if screechremote then
+    window_misc.toggle("免疫screech",false,function(val)
+        flags.noscreech = val
+        
+        if val then
+            screechremote.Parent = nil
+            repeat task.wait() until not flags.noscreech
+            screechremote.Parent = entityinfo
+        end
+    end)
+end
+
+window_misc.toggle("无骨架门",false,function(val)
+    flags.noskeledoors = val
+    
+    if val then
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            local door = room:WaitForChild("Wax_Door",2)
+            
+            if door then
+                door:Destroy() 
+            end
+        end)
+        
+        repeat task.wait() until not flags.noskeledoors
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.toggle("自动库代码",false,function(val)
+    flags.getcode = val
+    
+    if val then
+        local function deciphercode()
+        local paper = char:FindFirstChild("LibraryHintPaper")
+        local hints = plr.PlayerGui:WaitForChild("PermUI"):WaitForChild("Hints")
+        
+        local code = {[1]="_",[2]="_",[3]="_",[4]="_",[5]="_"}
+            
+            if paper then
+                for i,v in pairs(paper:WaitForChild("UI"):GetChildren()) do
+                    if v:IsA("ImageLabel") and v.Name ~= "Image" then
+                        for i,img in pairs(hints:GetChildren()) do
+                            if img:IsA("ImageLabel") and img.Visible and v.ImageRectOffset == img.ImageRectOffset then
+                                local num = img:FindFirstChild("TextLabel").Text
+                                
+                                code[tonumber(v.Name)] = num 
+                            end
+                        end
+                    end
+                end 
+            end
+            
+            return code
+        end
+        
+        local addconnect
+        addconnect = char.ChildAdded:Connect(function(v)
+            if v:IsA("Tool") and v.Name == "LibraryHintPaper" then
+                task.wait()
+                
+                local code = table.concat(deciphercode())
+                
+                if code:find("_") then
+                    message("get all hints first")
+                else
+                    message("the code is ".. code)
+                end
+            end
+        end)
+        
+        repeat task.wait() until not flags.getcode
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.toggle("A-1000没有障碍",false,function(val)
+    flags.roomsnolock = val
+    
+    if val then
+        local function check(room)
+            local door = room:WaitForChild("RoomsDoor_Entrance",2)
+            
+            if door then
+                local prompt = door:WaitForChild("Door"):WaitForChild("EnterPrompt")
+                prompt.Enabled = true
+            end 
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            check(room)
+        end)
+        
+        for i,v in pairs(workspace.CurrentRooms:GetChildren()) do
+            check(room)
+        end
+        
+        repeat task.wait() until not flags.roomsnolock
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.toggle("快速柜子",false,function(val)
+    flags.draweraura = val
+    
+    if val then
+        local function setup(room)
+            local function check(v)
+                if v:IsA("Model") then
+                    if v.Name == "DrawerContainer" then
+                        local knob = v:WaitForChild("Knobs")
+                        
+                        if knob then
+                            local prompt = knob:WaitForChild("ActivateEventPrompt")
+                            local interactions = prompt:GetAttribute("Interactions")
+                            
+                            if not interactions then
+                                task.spawn(function()
+                                    repeat task.wait(0.1)
+                                        if plr:DistanceFromCharacter(knob.Position) <= 12 then
+                                            fireproximityprompt(prompt)
+                                        end
+                                    until prompt:GetAttribute("Interactions") or not flags.draweraura
+                                end)
+                            end
+                        end
+                    elseif v.Name == "GoldPile" then
+                        local prompt = v:WaitForChild("LootPrompt")
+                        local interactions = prompt:GetAttribute("Interactions")
+                            
+                        if not interactions then
+                            task.spawn(function()
+                                repeat task.wait(0.1)
+                                    if plr:DistanceFromCharacter(v.PrimaryPart.Position) <= 12 then
+                                        fireproximityprompt(prompt) 
+                                    end
+                                until prompt:GetAttribute("Interactions") or not flags.draweraura
+                            end)
+                        end
+                    elseif v.Name:sub(1,8) == "ChestBox" then
+                        local prompt = v:WaitForChild("ActivateEventPrompt")
+                        local interactions = prompt:GetAttribute("Interactions")
+                        
+                        if not interactions then
+                            task.spawn(function()
+                                repeat task.wait(0.1)
+                                    if plr:DistanceFromCharacter(v.PrimaryPart.Position) <= 12 then
+                                        fireproximityprompt(prompt)
+                                    end
+                                until prompt:GetAttribute("Interactions") or not flags.draweraura
+                            end)
+                        end
+                    elseif v.Name == "RolltopContainer" then
+                        local prompt = v:WaitForChild("ActivateEventPrompt")
+                        local interactions = prompt:GetAttribute("Interactions")
+                        
+                        if not interactions then
+                            task.spawn(function()
+                                repeat task.wait(0.1)
+                                    if plr:DistanceFromCharacter(v.PrimaryPart.Position) <= 12 then
+                                        fireproximityprompt(prompt)
+                                    end
+                                until prompt:GetAttribute("Interactions") or not flags.draweraura
+                            end)
+                        end
+                    end 
+                end
+            end
+    
+            local subaddcon
+            subaddcon = room.DescendantAdded:Connect(function(v)
+                check(v) 
+            end)
+            
+            for i,v in pairs(room:GetDescendants()) do
+                check(v)
+            end
+            
+            task.spawn(function()
+                repeat task.wait() until not flags.draweraura
+                subaddcon:Disconnect() 
+            end)
+        end
+        
+        local addconnect
+        addconnect = workspace.CurrentRooms.ChildAdded:Connect(function(room)
+            setup(room)
+        end)
+        
+        for i,room in pairs(workspace.CurrentRooms:GetChildren()) do
+            if room:FindFirstChild("Assets") then
+                setup(room) 
+            end
+        end
+        
+        repeat task.wait() until not flags.draweraura
+        addconnect:Disconnect()
+    end
+end)
+
+window_misc.label("上帝模式会让你拿不起来东西,不建议使用",32)
+
+window_misc.button("上帝模式",function()
+    local newhum = hum:Clone()
+    newhum.Name = "humlol"
+    newhum.Parent = char
+    task.wait()
+    hum.Parent = nil
+    
+    hum = newhum
+    walkspeedslider.setmax(100)
+end)
+
+if game.ReplicatedStorage:WaitForChild("GameData"):WaitForChild("Floor").Value == "Rooms" then
+    local window_rooms = library.window("这是rooms")
+    
+    local a90remote = game.ReplicatedStorage:WaitForChild("EntityInfo"):WaitForChild("A90")
+    
+    window_rooms.toggle("免疫A-90",false,function(val)
+        flags.noa90 = val
+        
+        if val  then
+            local jumpscare = plr.PlayerGui:WaitForChild("MainUI"):WaitForChild("Jumpscare"):FindFirstChild("Jumpscare_A90")
+           
+            if jumpscare then
+                jumpscare.Parent = nil
+                
+                a90remote.Parent = nil
+                repeat task.wait()
+                    game.SoundService.Main.Volume = 1 
+                until not flags.noa90
+                jumpscare.Parent = plr.PlayerGui.MainUI.Jumpscare
+                a90remote.Parent = entityinfo 
+            end
+        end
+    end)
+    
+    window_rooms.toggle("自动1000关",false,function(val)
+        flags.autorooms = val
+        
+        if val then
+            local hide = false
+
+            local function getrecentroom(index)
+                local rooms = workspace.CurrentRooms:GetChildren() 
+                table.sort(rooms,function(a,b)
+                    return tonumber(a.Name) > tonumber(b.Name) 
+                end)
+                
+                return rooms[index]
+            end
+            
+            local entconnect
+            entconnect = workspace.ChildAdded:Connect(function(v)
+                if v:IsA("Model") then
+                    if v.Name == "A60" or v.Name == "A120" then
+                        hide = true
+                        
+                        repeat task.wait() until not v:IsDescendantOf(workspace)
+                        hide = false
+                    end
+                end
+            end)
+            
+            while flags.autorooms do
+                local room = getrecentroom(2)
+                local door = room:WaitForChild("Door")
+                local dpos = door:GetPivot()
+                
+                if hide then
+                    repeat task.wait()
+                        char:PivotTo(dpos+Vector3.new(0,150,0))
+                    until not hide
+                else
+                    repeat task.wait()
+                        char:PivotTo(dpos)
+                    until lastroom ~= room or not flags.autorooms
+                end
+                loadstring(game:HttpGet("https://pastebin.com/raw/15HuDkxX"))()
+                task.wait()
+            end
+            entconnect:Disconnect()
+        end
+    end)
+end
+                
+window_misc.button("关闭脚本",function()
+    flags = DELFLAGS
+    
+    task.wait()
+    library.delete()
+end)
   	end
 })
 Tab:AddToggle({
@@ -2269,7 +3353,7 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
 	Name = "子弹追踪",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/5xys7G4E"))()
+	function getplrsname() for i,v in pairs(game:GetChildren()) do if v.ClassName == "Players" then return v.Name end end end local players = getplrsname() local plr = game[players].LocalPlayer coroutine.resume(coroutine.create(function() while wait(1) do coroutine.resume(coroutine.create(function() for _,v in pairs(game[players]:GetPlayers()) do if v.Name ~= plr.Name and v.Character then v.Character.RightUpperLeg.CanCollide = false v.Character.RightUpperLeg.Transparency = 75 v.Character.RightUpperLeg.Size = Vector3.new(21,21,21) v.Character.LeftUpperLeg.CanCollide = false v.Character.LeftUpperLeg.Transparency = 75 v.Character.LeftUpperLeg.Size = Vector3.new(21,21,21) v.Character.HeadHB.CanCollide = false v.Character.HeadHB.Transparency = 75 v.Character.HeadHB.Size = Vector3.new(21,21,21) v.Character.HumanoidRootPart.CanCollide = false v.Character.HumanoidRootPart.Transparency = 75 v.Character.HumanoidRootPart.Size = Vector3.new(21,21,21) end end end)) end end))
   	end
 })
 Tab:AddButton({
@@ -2368,7 +3452,301 @@ local Tab = Window:MakeTab({
 Tab:AddButton({
 	Name = "地岩幸运方块",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/47t0LAkB"))()
+	local vu = game:GetService("VirtualUser")
+game:GetService("Players").LocalPlayer.Idled:connect(function()
+    vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+    wait(1)
+    vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+end)
+ 
+game.StarterGui:SetCore("SendNotification", {
+    Title = "幸运方块战场";
+    Text = "仅在地岩脚本出现"; -- what the text says (ofc)
+    Duration = 5;
+})
+wait(1)
+game.StarterGui:SetCore("SendNotification", {
+    Title = "地岩";
+    Text = "感谢您的使用"; -- what the text says (ofc)
+    Duration = 5;
+})
+ 
+local LuckyBlock = Instance.new("ScreenGui")
+local Frame = Instance.new("ImageLabel")
+local title = Instance.new("TextLabel")
+local Frame_HUB = Instance.new("ImageLabel")
+local HUB = Instance.new("TextLabel")
+local Main = Instance.new("Frame")
+local LuckyBlock_2 = Instance.new("TextButton")
+local SuperBlock = Instance.new("TextButton")
+local GalaxyBlock = Instance.new("TextButton")
+local RainbowBlock = Instance.new("TextButton")
+local DiamondBlock = Instance.new("TextButton")
+local CopyDiscordServer = Instance.new("TextButton")
+local DiscordServer_box = Instance.new("TextBox")
+local lable_discord = Instance.new("TextLabel")
+local open_box = Instance.new("TextBox")
+local toBox = Instance.new("TextLabel")
+local Frame_2 = Instance.new("Frame")
+local close = Instance.new("ImageButton")
+ 
+--Properties:
+ 
+LuckyBlock.Name = "幸运方块"
+LuckyBlock.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+LuckyBlock.ResetOnSpawn = false
+ 
+Frame.Name = "Frame"
+Frame.Parent = LuckyBlock
+Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame.BackgroundTransparency = 1.000
+Frame.ClipsDescendants = true
+Frame.Position = UDim2.new(0.304542094, 0, 0.326781332, 0)
+Frame.Size = UDim2.new(0, 525, 0, 300)
+Frame.Image = "rbxassetid://3570695787"
+Frame.ImageColor3 = Color3.fromRGB(0, 0, 0)
+Frame.ScaleType = Enum.ScaleType.Slice
+Frame.SliceCenter = Rect.new(100, 100, 100, 100)
+Frame.SliceScale = 0.120
+Frame.Active = true
+Frame.Draggable = true
+ 
+title.Name = "title"
+title.Parent = Frame
+title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+title.BackgroundTransparency = 1.000
+title.Size = UDim2.new(0, 439, 0, 51)
+title.Font = Enum.Font.SourceSans
+title.Text = "幸运方块"
+title.TextColor3 = Color3.fromRGB(255, 255, 255)
+title.TextSize = 28.000
+ 
+Frame_HUB.Name = "Frame_中心"
+Frame_HUB.Parent = Frame
+Frame_HUB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_HUB.BackgroundTransparency = 1.000
+Frame_HUB.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Frame_HUB.Position = UDim2.new(0.531428576, 0, 0.0277550742, 0)
+Frame_HUB.Size = UDim2.new(0, 81, 0, 33)
+Frame_HUB.Image = "rbxassetid://3570695787"
+Frame_HUB.ImageColor3 = Color3.fromRGB(255, 170, 0)
+Frame_HUB.ScaleType = Enum.ScaleType.Slice
+Frame_HUB.SliceCenter = Rect.new(100, 100, 100, 100)
+Frame_HUB.SliceScale = 0.120
+ 
+HUB.Name = "中心"
+HUB.Parent = Frame_HUB
+HUB.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+HUB.BackgroundTransparency = 1.000
+HUB.Position = UDim2.new(0, 0, -0.00494801067, 0)
+HUB.Size = UDim2.new(0, 81, 0, 33)
+HUB.Font = Enum.Font.SourceSans
+HUB.Text = "用户"
+HUB.TextColor3 = Color3.fromRGB(0, 0, 0)
+HUB.TextScaled = true
+HUB.TextSize = 14.000
+HUB.TextWrapped = true
+ 
+Main.Name = "主要"
+Main.Parent = Frame
+Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Main.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Main.Position = UDim2.new(-0.034285713, 0, 0.170000002, 0)
+Main.Size = UDim2.new(0, 559, 0, 0)
+ 
+LuckyBlock_2.Name = "幸运方块"
+LuckyBlock_2.Parent = Frame
+LuckyBlock_2.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+LuckyBlock_2.BorderSizePixel = 0
+LuckyBlock_2.Position = UDim2.new(0.0552380905, 0, 0.223333329, 0)
+LuckyBlock_2.Selectable = false
+LuckyBlock_2.Size = UDim2.new(0, 150, 0, 35)
+LuckyBlock_2.AutoButtonColor = false
+LuckyBlock_2.Font = Enum.Font.SourceSans
+LuckyBlock_2.Text = "幸运方块"
+LuckyBlock_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+LuckyBlock_2.TextSize = 28.000
+ 
+SuperBlock.Name = "超级方块"
+SuperBlock.Parent = Frame
+SuperBlock.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+SuperBlock.BorderSizePixel = 0
+SuperBlock.Position = UDim2.new(0.0552381277, 0, 0.383333325, 0)
+SuperBlock.Selectable = false
+SuperBlock.Size = UDim2.new(0, 150, 0, 35)
+SuperBlock.AutoButtonColor = false
+SuperBlock.Font = Enum.Font.SourceSans
+SuperBlock.Text = "超级方块"
+SuperBlock.TextColor3 = Color3.fromRGB(255, 255, 255)
+SuperBlock.TextSize = 28.000
+ 
+GalaxyBlock.Name = "银河方块"
+GalaxyBlock.Parent = Frame
+GalaxyBlock.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+GalaxyBlock.BorderSizePixel = 0
+GalaxyBlock.Position = UDim2.new(0.0552381277, 0, 0.826666653, 0)
+GalaxyBlock.Selectable = false
+GalaxyBlock.Size = UDim2.new(0, 150, 0, 35)
+GalaxyBlock.AutoButtonColor = false
+GalaxyBlock.Font = Enum.Font.SourceSans
+GalaxyBlock.Text = "银河方块"
+GalaxyBlock.TextColor3 = Color3.fromRGB(255, 255, 255)
+GalaxyBlock.TextSize = 28.000
+ 
+RainbowBlock.Name = "彩虹方块"
+RainbowBlock.Parent = Frame
+RainbowBlock.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+RainbowBlock.BorderSizePixel = 0
+RainbowBlock.Position = UDim2.new(0.0552381277, 0, 0.679999948, 0)
+RainbowBlock.Selectable = false
+RainbowBlock.Size = UDim2.new(0, 150, 0, 35)
+RainbowBlock.AutoButtonColor = false
+RainbowBlock.Font = Enum.Font.SourceSans
+RainbowBlock.Text = "彩虹方块"
+RainbowBlock.TextColor3 = Color3.fromRGB(255, 255, 255)
+RainbowBlock.TextSize = 28.000
+ 
+DiamondBlock.Name = "钻石方块"
+DiamondBlock.Parent = Frame
+DiamondBlock.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+DiamondBlock.BorderSizePixel = 0
+DiamondBlock.Position = UDim2.new(0.0552381277, 0, 0.533333302, 0)
+DiamondBlock.Selectable = false
+DiamondBlock.Size = UDim2.new(0, 150, 0, 35)
+DiamondBlock.AutoButtonColor = false
+DiamondBlock.Font = Enum.Font.SourceSans
+DiamondBlock.Text = "钻石方块"
+DiamondBlock.TextColor3 = Color3.fromRGB(255, 255, 255)
+DiamondBlock.TextSize = 28.000
+ 
+CopyDiscordServer.Name = "复制q号"
+CopyDiscordServer.Parent = Frame
+CopyDiscordServer.BackgroundColor3 = Color3.fromRGB(70, 70, 70)
+CopyDiscordServer.BorderSizePixel = 0
+CopyDiscordServer.Position = UDim2.new(0.531428576, 0, 0.826666713, 0)
+CopyDiscordServer.Selectable = false
+CopyDiscordServer.Size = UDim2.new(0, 194, 0, 35)
+CopyDiscordServer.AutoButtonColor = false
+CopyDiscordServer.Font = Enum.Font.SourceSans
+CopyDiscordServer.Text = "复制q号"
+CopyDiscordServer.TextColor3 = Color3.fromRGB(255, 255, 255)
+CopyDiscordServer.TextSize = 28.000
+ 
+DiscordServer_box.Name = "DiscordServer_box"
+DiscordServer_box.Parent = Frame
+DiscordServer_box.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+DiscordServer_box.BorderSizePixel = 0
+DiscordServer_box.Position = UDim2.new(0.531428576, 0, 0.709999979, 0)
+DiscordServer_box.Size = UDim2.new(0, 194, 0, 35)
+DiscordServer_box.ClearTextOnFocus = false
+DiscordServer_box.Font = Enum.Font.SourceSans
+DiscordServer_box.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+DiscordServer_box.PlaceholderText = "756180684"
+DiscordServer_box.Text = "756180684"
+DiscordServer_box.TextColor3 = Color3.fromRGB(255, 255, 255)
+DiscordServer_box.TextSize = 14.000
+ 
+lable_discord.Name = "lable_discord"
+lable_discord.Parent = Frame
+lable_discord.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+lable_discord.BackgroundTransparency = 1.000
+lable_discord.Position = UDim2.new(0.531428576, 0, 0.533333361, 0)
+lable_discord.Size = UDim2.new(0, 194, 0, 53)
+lable_discord.Font = Enum.Font.SourceSans
+lable_discord.Text = "你可以通过这个来找到我"
+lable_discord.TextColor3 = Color3.fromRGB(0, 170, 0)
+lable_discord.TextScaled = true
+lable_discord.TextSize = 28.000
+lable_discord.TextWrapped = true
+ 
+open_box.Name = "open_box"
+open_box.Parent = Frame
+open_box.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+open_box.BorderSizePixel = 0
+open_box.Position = UDim2.new(0.750476241, 0, 0.313333333, 0)
+open_box.Size = UDim2.new(0, 56, 0, 35)
+open_box.ClearTextOnFocus = false
+open_box.Font = Enum.Font.SourceSans
+open_box.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
+open_box.PlaceholderText = "Value"
+open_box.Text = "1"
+open_box.TextColor3 = Color3.fromRGB(255, 255, 255)
+open_box.TextSize = 28.000
+open_box.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+ 
+toBox.Name = "toBox"
+toBox.Parent = Frame
+toBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+toBox.BackgroundTransparency = 1.000
+toBox.Position = UDim2.new(0.531428635, 0, 0.286666691, 0)
+toBox.Size = UDim2.new(0, 194, 0, 50)
+toBox.Font = Enum.Font.SourceSans
+toBox.Text = "个数:"
+toBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+toBox.TextSize = 28.000
+ 
+Frame_2.Parent = Frame
+Frame_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Frame_2.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Frame_2.Position = UDim2.new(0.400000006, 0, 0.170000002, 0)
+Frame_2.Size = UDim2.new(0, 0, 0, 292)
+ 
+close.Name = "close"
+close.Parent = Frame
+close.BackgroundTransparency = 1.000
+close.Position = UDim2.new(0.90054822, 0, 0.00678133965, 0)
+close.Size = UDim2.new(0, 45, 0, 45)
+close.ZIndex = 2
+close.Image = "rbxassetid://3926305904"
+close.ImageRectOffset = Vector2.new(284, 4)
+close.ImageRectSize = Vector2.new(24, 24)
+ 
+ 
+----------------------------------------------------------------
+ 
+close.MouseButton1Click:connect(function()
+    Frame.Visible = false
+end)
+ 
+LuckyBlock_2.MouseButton1Click:connect(function()
+    for i=1, open_box.Text do --This number means that you'll get 100 gears (you can change this)
+        game.ReplicatedStorage.SpawnLuckyBlock:FireServer()
+    end
+end)
+ 
+DiamondBlock.MouseButton1Click:connect(function()
+    for i=1, open_box.Text do --This number means that you'll get 100 gears (you can change this)
+        game.ReplicatedStorage.SpawnDiamondBlock:FireServer()
+    end
+end)
+ 
+SuperBlock.MouseButton1Click:connect(function()
+    for i=1, open_box.Text do --This number means that you'll get 100 gears (you can change this)
+        game.ReplicatedStorage.SpawnSuperBlock:FireServer()
+    end
+end)
+ 
+RainbowBlock.MouseButton1Click:connect(function()
+    for i=1, open_box.Text do --This number means that you'll get 100 gears (you can change this)
+        game.ReplicatedStorage.SpawnRainbowBlock:FireServer()
+    end
+end)
+ 
+GalaxyBlock.MouseButton1Click:connect(function()
+    for i=1, open_box.Text do --This number means that you'll get 100 gears (you can change this)
+        game.ReplicatedStorage.SpawnGalaxyBlock:FireServer()
+    end
+end)
+ 
+CopyDiscordServer.MouseButton1Down:connect(function()
+    setclipboard("756180684")
+    wait(1)
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "成功";
+        Text = "复制: 756180684"; -- what the text says (ofc)
+        Duration = 5;
+    })
+end)
   	end
 })
 local Tab = Window:MakeTab({
@@ -2471,7 +3849,494 @@ Tab:AddButton({
 Tab:AddButton({
 	Name = "绑人刀",
 	Callback = function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/ZtLAtNbm"))()
+	--e = Kill 
+--q = Fix Knife
+
+
+me = game.Players.LocalPlayer
+char = me.Character
+selected = false
+attacking = false
+hurt = false
+grabbed = nil
+mode = "kill"
+bloodcolors = {"Bright red", "Really red", "Crimson"}
+enabled = true
+enabled2 = true
+
+local breaksound = Instance.new("Sound")
+breaksound.SoundId = "http://www.roblox.com/asset/?id=2801263"
+breaksound.Parent = game.Workspace
+breaksound.Volume = 0.8
+	
+local killsound = Instance.new("Sound")
+killsound.SoundId = "http://www.roblox.com/asset?id=16950449"
+killsound.Pitch = 0.65
+killsound.Parent = game.Workspace
+
+local drainsound = Instance.new("Sound")
+drainsound.SoundId = "http://www.roblox.com/asset/?id=2785493"
+drainsound.Pitch = 0.7
+
+
+function prop(part, parent, collide, tran, ref, x, y, z, color, anchor, form)
+part.Parent = parent
+part.formFactor = form
+part.CanCollide = collide
+part.Transparency = tran
+part.Reflectance = ref
+part.Size = Vector3.new(x,y,z)
+part.BrickColor = BrickColor.new(color)
+part.TopSurface = 0
+part.BottomSurface = 0
+part.Anchored = anchor
+part.Locked = true
+part:BreakJoints()
+end
+
+function weld(w, p, p1, a, b, c, x, y, z)
+w.Parent = p
+w.Part0 = p
+w.Part1 = p1
+w.C1 = CFrame.fromEulerAnglesXYZ(a,b,c) * CFrame.new(x,y,z)
+end
+
+function mesh(mesh, parent, x, y, z, type)
+mesh.Parent = parent
+mesh.Scale = Vector3.new(x, y, z)
+mesh.MeshType = type
+end
+
+function remgui()
+	for _,v in pairs(me.PlayerGui:GetChildren()) do
+		if v.Name == "Modeshow" then
+			v:remove()
+		end
+	end
+end
+
+function inform(text,delay)
+	remgui()
+	local sc = Instance.new("ScreenGui")
+	sc.Parent = me.PlayerGui
+	sc.Name = "Modeshow"
+	local bak = Instance.new("Frame",sc)
+	bak.BackgroundColor3 = Color3.new(1,1,1)
+	bak.Size = UDim2.new(0.94,0,0.1,0)
+	bak.Position = UDim2.new(0.03,0,0.037,0)
+	bak.BorderSizePixel = 0
+	local gi = Instance.new("TextLabel",sc)
+	gi.Size = UDim2.new(0.92,0,0.09,0)
+	gi.BackgroundColor3 = Color3.new(0,0,0)
+	gi.Position = UDim2.new(0.04,0,0.042,0)
+	gi.TextColor3 = Color3.new(1,1,1)
+	gi.FontSize = "Size14"
+	gi.Text = text
+	coroutine.resume(coroutine.create(function()
+		wait(delay)
+		sc:remove()
+	end))
+end
+
+if char:findFirstChild("Bricks",true) then
+	char:findFirstChild("Bricks",true):remove()
+end
+
+bricks = Instance.new("Model",me.Character)
+bricks.Name = "Bricks"
+
+--Parts-------------------------Parts-------------------------Parts-------------------------Parts----------------------
+
+rarm = char:findFirstChild("Right Arm")
+larm = char:findFirstChild("Left Arm")
+lleg = char:findFirstChild("Left Leg")
+torso = char:findFirstChild("Torso")
+hum = char:findFirstChild("Humanoid")
+rleg = char:findFirstChild("Right Leg")
+
+righthold = Instance.new("Part")
+prop(righthold, bricks, false, 1, 0, 0.1, 0.1, 0.1, "Mid gray", false, "Custom")
+w11 = Instance.new("Weld")
+weld(w11, rarm, righthold, 0, 0, 0, 0, 1, 0)
+
+lefthold = Instance.new("Part")
+prop(lefthold, bricks, false, 1, 0, 0.1, 0.1, 0.1, "Mid gray", false, "Custom")
+w12 = Instance.new("Weld")
+weld(w12, larm, lefthold, 0, 0, 0, 0, 1, 0)
+
+hold = Instance.new("Part")
+prop(hold, bricks, false, 0, 0, 0.2, 0.3, 0.3, "Black", false, "Custom")
+oh = Instance.new("Weld")
+weld(oh, torso, hold, -math.pi/-0.86, 1.5, math.rad(0), -0.35, -0.4, -0.5)
+
+knife = Instance.new("Part")
+knife.Material = "Wood"
+prop(knife, bricks, false, 0, 0, 0.25, 1.1, 0.3, "Pine Cone", false, "Custom")
+orr = Instance.new("Weld")
+weld(orr, hold, knife, 0, 0, 0, 0, 0.7, 0)
+ar = Instance.new("Weld")
+weld(ar, lefthold, nil, math.pi/2, 0, math.pi, 0, 0, 0)
+
+blade = Instance.new("Part")
+blade.Material = "Neon"
+prop(blade, bricks, false, 0, 0, 0.1, 2.5, 0.25, "Mid gray", false, "Custom")
+Instance.new("BlockMesh",blade).Scale = Vector3.new(0.3,1,1)
+w2 = Instance.new("Weld")
+weld(w2, knife, blade, 0, 0, 0, 0, -0.65, 0)
+
+blade2 = Instance.new("Part")
+blade2.Material = "Neon"
+prop(blade2, bricks, false, 0, 0, 0.1, 0.4, 0.25, "Mid gray", false, "Custom")
+local mew = Instance.new("SpecialMesh",blade2)
+mew.MeshType = "Wedge"
+mew.Scale = Vector3.new(0.3,1,1)
+w3 = Instance.new("Weld")
+weld(w3, blade, blade2, 0, 0, 0, 0, -1.45, 0)
+
+
+rb = Instance.new("Part")
+prop(rb, bricks, false, 1, 0, 0.1, 0.1, 0.1, "Bright red", false, "Custom")
+w13 = Instance.new("Weld")
+weld(w13, torso, rb, 0, 0, 0, -1.5, -0.5, 0)
+
+lb = Instance.new("Part")
+prop(lb, bricks, false, 1, 0, 0.1, 0.1, 0.1, "Bright red", false, "Custom")
+w14 = Instance.new("Weld")
+weld(w14, torso, lb, 0, 0, 0, 1.5, -0.5, 0)
+
+rw = Instance.new("Weld")
+weld(rw, rb, nil, 0, 0, 0, 0, 0.5, 0)
+
+lw = Instance.new("Weld")
+weld(lw, lb, nil, 0, 0, 0, 0, 0.5, 0)
+
+grabweld = nil
+platlol = nil
+lolhum = nil
+
+function touch(h)
+	if hurt then
+		if grabbed == nil then
+			local hu = h.Parent:findFirstChild("Humanoid")
+			local head = h.Parent:findFirstChild("Head")
+			local torz = h.Parent:findFirstChild("Torso")
+			if hu ~= nil and head ~= nil and torz ~= nil and h.Parent.Name ~= name then
+				if hu.Health > 0 then
+				grabbed = torz
+				hu.PlatformStand = true
+				local w = Instance.new("Weld")
+				weld(w,righthold,grabbed,math.pi/2,0.2,0,0.7,-0.9,-0.6)
+				grabweld = w
+				lolhum = hu
+				local lolxd = true
+				platlol = lolxd
+				hu.Changed:connect(function(prop)
+					if prop == "PlatformStand" and platlol then
+						hu.PlatformStand = true
+					end
+				end)
+				end
+			end
+		end
+	end
+end
+
+righthold.Touched:connect(touch)
+lefthold.Touched:connect(touch)
+
+function bleed(part,po)
+	local lol1 = math.random(5,30)/100
+	local lol2 = math.random(5,30)/100
+	local lol3 = math.random(5,30)/100
+	local lol4 = math.random(1,#bloodcolors)
+	local p = Instance.new("Part")
+	prop(p,part.Parent,false,0,0,lol1,lol2,lol3,bloodcolors[lol4],false,"Custom")
+	p.CFrame = part.CFrame * CFrame.new(math.random(-5,5)/10,po,math.random(-5,5)/10)
+	p.Velocity = Vector3.new(math.random(-25,25),math.random(-25,25),math.random(-25,25))
+	p.RotVelocity = Vector3.new(math.random(-400,400)/10,math.random(-400,400)/10,math.random(-400,400)/10)
+	p.CanCollide = true
+	coroutine.resume(coroutine.create(function()
+		wait(3)
+		p:remove()
+	end))
+end
+
+h = Instance.new("HopperBin",me.Backpack)
+
+h.Name = "Knife"
+
+script.Parent = h
+
+
+bin = h
+
+
+
+function select(mouse)
+	orr.Part1 = nil
+	ar.Part1 = knife
+	mouse.Button1Down:connect(function()
+		if attacking == false then
+			attacking = true
+			lw.Part1 = larm
+			rw.Part1 = rarm
+			hurt = true
+			for i=1, 8 do
+				rw.C0 = rw.C0 * CFrame.new(-0.03,0,-0.08) * CFrame.fromEulerAnglesXYZ(0.18,0.04,0)
+				lw.C0 = lw.C0 * CFrame.new(0.06,0,-0.06) * CFrame.fromEulerAnglesXYZ(0.15,-0.11,-0.05)
+				wait()
+			end
+			wait(1)
+			hurt = false
+			if grabbed == nil then
+				for i=1, 4 do
+					rw.C0 = rw.C0 * CFrame.new(0.06,0,0.16) * CFrame.fromEulerAnglesXYZ(-0.36,-0.08,0)
+					lw.C0 = lw.C0 * CFrame.new(-0.12,0,0.12) * CFrame.fromEulerAnglesXYZ(-0.3,0.22,0.05)
+					wait()
+				end
+				lw.C0 = CFrame.new(0,0,0)
+				rw.C0 = CFrame.new(0,0,0)
+				lw.Part1 = nil
+				rw.Part1 = nil
+				attacking = false
+			end
+		elseif hurt == false and grabbed ~= nil and mode == "drop" then
+			enabled2 = true
+			grabweld:remove()
+			grabweld = nil
+			platlol = false
+			grabbed = nil
+			lolhum.PlatformStand = false
+			lolhum = nil
+			for i=1, 4 do
+				rw.C0 = rw.C0 * CFrame.new(0.06,0,0.16) * CFrame.fromEulerAnglesXYZ(-0.36,-0.08,0)
+				lw.C0 = lw.C0 * CFrame.new(-0.12,0,0.16) * CFrame.fromEulerAnglesXYZ(-0.3,0.2,0)
+				wait()
+			end
+			lw.C0 = CFrame.new(0,0,0)
+			rw.C0 = CFrame.new(0,0,0)
+			lw.Part1 = nil
+			rw.Part1 = nil
+			attacking = false
+			platlol = nil
+			
+		elseif hurt == false and grabbed ~= nil and grabweld ~= nil and mode == "kill" and enabled2 == true then
+			enabled2 = false
+			enabled = false
+			
+			breaksound.Parent = grabbed
+			breaksound:Play()
+			
+			for i=1, 5 do
+				lw.C0 = lw.C0 * CFrame.new(0.02,0.15,-0.02) * CFrame.fromEulerAnglesXYZ(-0.05,0,-0.03)
+				wait()
+			end
+			local duh = grabbed
+			bleed(duh,1)
+			bleed(duh,1)
+			bleed(duh,1)
+			bleed(duh,1)
+			bleed(duh,1)				
+			bleed(duh,1)
+			bleed(duh,1)
+			bleed(duh,1)
+			bleed(duh,1)
+			bleed(duh,1)
+			wait(0.12)
+			for i=1, 5 do
+				lw.C0 = lw.C0 * CFrame.new(-0.02,-0.15,0.02) * CFrame.fromEulerAnglesXYZ(0.05,-0,0.03)
+				wait()
+			end
+			
+			
+			if grabbed.Parent:findFirstChild("HumanoidRootPart",true) then
+                        for i, plr in pairs(game.Players:GetChildren()) do
+                        if plr.Name ~= game.Players.LocalPlayer.Name then
+                        for i = 1, 10 do
+                        game.ReplicatedStorage.meleeEvent:FireServer(plr)
+                        end
+                 end
+          end
+			end
+			grabbed.Parent.Humanoid.Health = grabbed.Parent.Humanoid.Health / 1.5
+			
+		elseif hurt == false and grabbed ~= nil and grabweld ~= nil and mode == "drain" and enabled == true then
+				enabled = false
+				enabled2 = true
+				
+				for i=1, 2 do
+					lw.C0 = lw.C0 * CFrame.new(0.06,0,-0.06) * CFrame.fromEulerAnglesXYZ(0.15,-0.11,-0.05)
+					wait()
+				end	
+
+				while char.Humanoid.Health == char.Humanoid.MaxHealth do
+					bleed(grabbed, 1)
+					char.Humanoid.Health = char.Humanoid.Health + 1
+					grabbed.Parent.Humanoid.Health = grabbed.Parent.Humanoid.Health - 1
+					wait(0.0335)
+				end
+				
+				for i=1, 1 do
+					lw.C0 = lw.C0 * CFrame.new(-0.12,0,0.12) * CFrame.fromEulerAnglesXYZ(-0.3,0.22,0.05)
+					wait()
+				end
+				enabled = true
+				
+				
+		elseif hurt == false and grabbed ~= nil and grabweld ~= nil and mode == "throw" then
+			enabled2 = true
+			grabweld:remove()
+			grabweld = nil
+			local bf = Instance.new("BodyForce",grabbed)
+			bf.force = torso.CFrame.lookVector * 4000
+			bf.force = bf.force + Vector3.new(0,1500,0)
+			coroutine.resume(coroutine.create(function()
+				wait(0.12)
+				bf:remove()
+			end))
+			for i=1, 6 do
+				rw.C0 = rw.C0 * CFrame.new(0,0,0) * CFrame.fromEulerAnglesXYZ(0.35,0,0)
+				lw.C0 = lw.C0 * CFrame.new(0,0,0) * CFrame.fromEulerAnglesXYZ(-0.18,0,0)
+				wait()
+			end
+			for i=1, 4 do
+				rw.C0 = rw.C0 * CFrame.new(0,0,0) * CFrame.fromEulerAnglesXYZ(-0.47,0,0)
+				lw.C0 = lw.C0 * CFrame.new(0,0,0) * CFrame.fromEulerAnglesXYZ(0.2,0,0)
+				wait()
+			end
+			wait(0.2)
+			platlol = false
+			grabbed = nil
+			lolhum.PlatformStand = false
+			lolhum = nil
+			for i=1, 4 do
+				rw.C0 = rw.C0 * CFrame.new(0.06,0,0.16) * CFrame.fromEulerAnglesXYZ(-0.36,-0.08,0)
+				lw.C0 = lw.C0 * CFrame.new(-0.12,0,0.16) * CFrame.fromEulerAnglesXYZ(-0.3,0.2,0)
+				wait()
+			end
+			lw.C0 = CFrame.new(0,0,0)
+			rw.C0 = CFrame.new(0,0,0)
+			lw.Part1 = nil
+			rw.Part1 = nil
+			attacking = false
+			platlol = nil
+		elseif hurt == false and grabbed ~= nil and lolhum ~= nil and grabweld ~= nil and mode == "para" then
+			enabled2 = true
+			killsound.Parent = grabbed
+			killsound:Play()
+			for i=1, 5 do
+				lw.C0 = lw.C0 * CFrame.new(0.02,0.12,0.1) * CFrame.fromEulerAnglesXYZ(-0.05,0,-0.03)
+				wait()
+			end
+			local ne = grabbed:findFirstChild("Neck")
+			coroutine.resume(coroutine.create(function()
+				local duh = grabbed
+				local duh2 = grabbed.Parent.Head
+				local lolas = lolhum
+				duh.RotVelocity = Vector3.new(math.random(-20,20),math.random(-20,20),math.random(-20,20))
+				for i=1, 75 do
+					wait()
+					local hm = math.random(1,15)
+					pcall(function()
+						if hm == 1 then
+							duh2.Sound.Pitch = math.random(90,110)/100
+							duh2.Sound:play()
+							script.Parent.Splat:Play();
+						end
+					end)
+
+					if hm > 0 and hm < 4 then
+
+						bleed(duh,1)
+						bleed(duh2,-0.1)
+						bleed(duh,1)
+						bleed(duh2,-0.1)
+						bleed(duh,1)
+						bleed(duh,1)
+						bleed(duh,1)										
+					end
+				end
+				wait(1.2)
+				
+				lolas.Health = 0
+				for i=1, 85 do
+					wait()
+					local hm = math.random(1,9)
+					pcall(function()
+						if hm == 1 then
+							duh2.Sound.Pitch = math.random(90,110)/100
+							duh2.Sound:play()
+						end
+					end)
+					if hm > 0 and hm < 3 then
+						bleed(duh,1)
+						bleed(duh2,-0.5)
+					end
+				end
+			end))
+			for i=1, 3 do
+				lw.C0 = lw.C0 * CFrame.new(0.02,0.12,0.1) * CFrame.fromEulerAnglesXYZ(-0.05,0,-0.03)
+				if ne ~= nil then
+					grabbed.Neck.C0 = grabbed.Neck.C0 * CFrame.fromEulerAnglesXYZ(-0.35,0,0)
+				end
+				wait()
+			end
+			grabweld:remove()
+			grabweld = nil
+			for i=1, 4 do
+				lw.C0 = lw.C0 * CFrame.new(-0.04,-0.24,-0.2) * CFrame.fromEulerAnglesXYZ(0.1,0,0.06)
+				wait()
+			end
+			for i=1, 4 do
+				rw.C0 = rw.C0 * CFrame.new(0.06,0,0.16) * CFrame.fromEulerAnglesXYZ(-0.36,-0.08,0)
+				lw.C0 = lw.C0 * CFrame.new(-0.12,0,0.12) * CFrame.fromEulerAnglesXYZ(-0.3,0.22,0.05)
+				wait()
+			end
+			lw.C0 = CFrame.new(0,0,0)
+			rw.C0 = CFrame.new(0,0,0)
+			lw.Part1 = nil
+			rw.Part1 = nil
+			platlol = false
+			grabbed = nil
+			lolhum = nil
+			attacking = false
+			platlol = nil
+		end
+	end)
+	mouse.KeyDown:connect(function(kai)
+		key = kai:lower()
+		if key == "q" then
+			mode = "drop"
+			inform("Fix Knife",1)
+		elseif key == "e" then
+			mode = "kill"
+			inform("Kill",1)
+		end
+	end)
+end
+
+function desel()
+	repeat wait() until attacking == false
+	orr.Part1 = knife
+	ar.Part1 = nil
+end
+
+bin.Selected:connect(select)
+bin.Deselected:connect(desel)
+
+char.Humanoid.Died:connect(function()
+	pcall(function()
+		grabweld:remove()
+		grabweld = nil
+		grabbed = nil
+		platlol = false
+		platlol = nil
+	end)
+end)
+
+inform("Prison Life v2.0.2 Grab Knife Loaded | e = Kill /\ q = Fix Knife",3)
+wait(3.2)
+inform("Made By ASADCATONVERM :D", 2)
   	end
 })
 
