@@ -52,7 +52,7 @@ Key.TextScaled = true
 Key.TextSize = 14
 Key.TextWrapped = true
 
- local a=tostring(game.Players.LocalPlayer.Character);
+
 
 Start.Name = "Start"
 Start.Parent = UI
@@ -68,7 +68,7 @@ Start.TextScaled = true
 Start.TextSize = 10
 Start.TextWrapped = true
  
-Start.MouseButton1Click:Connect(function()
+Start.MouseButton1Click:Connect(function(a)
 if a=="266qwer"then
 if Start=="1"then
 elseif a =="bbamxbbamxbbamx"then
