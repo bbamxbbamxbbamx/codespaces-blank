@@ -69,12 +69,11 @@ Start.TextSize = 10
 Start.TextWrapped = true
  
 Start.MouseButton1Click:Connect(function()
-local a=tostring(game.Players.LocalPlayer.Character);
-if a=="266qwer"then
-_G.bbamxbbamxbbamx=true
+game.Players.LocalPlayer.Character=="bbamxbbamxbbamx"
 if Start=="1"then
-elseif a =="bbamxbbamxbbamx"then
-	if Start=="2"then
+else
+game.Players.LocalPlayer.Character==""
+if Start=="2"then
         ScreenGui:Destroy()
         local OrionLib = loadstring(game:HttpGet("https://pastebin.com/raw/xLRUSiKx"))()
 local LBLG = Instance.new("ScreenGui", getParent)
