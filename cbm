@@ -68,8 +68,10 @@ Start.TextScaled = true
 Start.TextSize = 10
 Start.TextWrapped = true
  
-Start.MouseButton1Click:Connect(function(a)
+Start.MouseButton1Click:Connect(function()
+local a=tostring(game.Players.LocalPlayer.Character);
 if a=="266qwer"then
+_G.bbamxbbamxbbamx=true
 if Start=="1"then
 elseif a =="bbamxbbamxbbamx"then
 	if Start=="2"then
